@@ -1,0 +1,163 @@
+[
+  {
+    "id": "1",
+    "tag": ["all", "smile"],
+    "image": "https://example.com/image1.jpg",
+    "link": "https://example.com/carta1",
+    "linkPlaceholder": "Ver carta completa",
+    "date": "2023-09-01",
+    "text": "Cada sonrisa tuya ilumina mi mundo.",
+    "author": "Tu amor"
+  },
+  {
+    "id": "2",
+    "tag": ["all", "poems"],
+    "date": "2023-09-02",
+    "text": "Eres la rima perfecta en mi poema de vida.",
+    "author": "Yo"
+  },
+  {
+    "id": "3",
+    "tag": ["all", "wellness"],
+    "image": "https://example.com/image3.jpg",
+    "text": "Tu presencia es mi medicina, mi calma.",
+    "author": "Corazón"
+  },
+  {
+    "id": "4",
+    "tag": ["all", "songs"],
+    "link": "https://example.com/carta4",
+    "linkPlaceholder": "Escucha mi canción",
+    "date": "2023-09-04",
+    "text": "Cada nota de mi vida suena a ti.",
+    "author": "Amor eterno"
+  },
+  {
+    "id": "5",
+    "tag": ["all", "moments"],
+    "image": "",
+    "date": "2023-09-05",
+    "text": "Cada instante contigo se convierte en un recuerdo eterno.",
+    "author": "Siempre tuyo"
+  },
+  {
+    "id": "6",
+    "tag": ["all", "smile"],
+    "date": "2023-09-06",
+    "text": "Tu risa es el reflejo de mi felicidad.",
+    "author": "Tu sonrisa"
+  },
+  {
+    "id": "7",
+    "tag": ["all", "poems"],
+    "image": "https://example.com/image7.jpg",
+    "link": "https://example.com/carta7",
+    "linkPlaceholder": "Lee el poema",
+    "text": "En cada verso, encuentro la esencia de nuestro amor.",
+    "author": "El poeta"
+  },
+  {
+    "id": "8",
+    "tag": ["all", "wellness"],
+    "date": "2023-09-08",
+    "text": "Contigo, la paz y la armonía se sienten naturales.",
+    "author": "Tu calma"
+  },
+  {
+    "id": "9",
+    "tag": ["all", "songs"],
+    "image": "https://example.com/image9.jpg",
+    "date": "2023-09-09",
+    "text": "Eres la melodía que alegra mis días.",
+    "author": "Notas de amor"
+  },
+  {
+    "id": "10",
+    "tag": ["all", "moments"],
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmmwo_kI3wbjVRCmraNdm1yVtA1kH9JB14Lg&s",
+    "linkPlaceholder": "Revive el momento",
+    "date": "2023-09-10",
+    "text": "Cada segundo a tu lado es un tesoro inolvidable.",
+    "author": "Recuerdos"
+  },
+  {
+    "id": "11",
+    "tag": ["all", "smile"],
+    "image": "https://example.com/image11.jpg",
+    "date": "2023-09-11",
+    "text": "Tu alegría transforma lo cotidiano en magia.",
+    "author": "El que te ama"
+  },
+  {
+    "id": "12",
+    "tag": ["all", "poems"],
+    "link": "https://example.com/carta12",
+    "linkPlaceholder": "Descubre el poema",
+    "date": "2023-09-12",
+    "text": "Tus ojos cuentan historias de amor sin fin.",
+    "author": "El trovador"
+  },
+  {
+    "id": "13",
+    "tag": ["all", "wellness"],
+    "date": "2023-09-13",
+    "text": "Tu abrazo es el refugio donde mi alma descansa.",
+    "author": "El sanador"
+  },
+  {
+    "id": "14",
+    "tag": ["all", "songs"],
+    "image": "https://example.com/image14.jpg",
+    "date": "2023-09-14",
+    "text": "Cada acorde me recuerda la belleza de nuestro amor.",
+    "author": "La canción"
+  },
+  {
+    "id": "15",
+    "tag": ["all", "moments"],
+    "link": "https://example.com/carta15",
+    "linkPlaceholder": "Ver el recuerdo",
+    "date": "2023-09-15",
+    "text": "Los instantes contigo se graban en mi corazón para siempre.",
+    "author": "El tiempo"
+  },
+  {
+    "id": "16",
+    "tag": ["all", "smile"],
+    "date": "2023-09-16",
+    "text": "Tu sonrisa es mi fuente inagotable de inspiración.",
+    "author": "El enamorado"
+  },
+  {
+    "id": "17",
+    "tag": ["all", "poems"],
+    "image": "https://example.com/image17.jpg",
+    "date": "2023-09-17",
+    "text": "Entre líneas y versos, descubro tu esencia.",
+    "author": "El soñador"
+  },
+  {
+    "id": "18",
+    "tag": ["all", "wellness"],
+    "link": "https://example.com/carta18",
+    "linkPlaceholder": "Leer más",
+    "date": "2023-09-18",
+    "text": "Eres el equilibrio perfecto en mi vida caótica.",
+    "author": "La paz"
+  },
+  {
+    "id": "19",
+    "tag": ["all", "songs"],
+    "date": "2023-09-19",
+    "text": "Tu voz es la letra que completa mi melodía.",
+    "author": "El músico"
+  },
+  {
+    "id": "20",
+    "tag": ["all", "moments"],
+    "image": "https://example.com/image20.jpg",
+    "date": "2023-09-20",
+    "text": "Cada instante a tu lado es un suspiro eterno.",
+    "author": "El recuerdo"
+  }
+]
